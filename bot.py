@@ -2,7 +2,7 @@ import sqlite3
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-API_TOKEN = "8294189105:AAHNetFIEPE5E4i3WV5wFd4QZbbhn3VGJGU"   # 🔑 Бу ерга ўз токенингизни қўйинг
+API_TOKEN = "8294189105:AAGG29Sm81HOACctm9EwIdZS-2_SJQ8uZoY"   # 🔑 Бу ерга ўз токенингизни қўйинг
 
 bot = Bot(token=API_TOKEN, parse_mode="HTML")
 dp = Dispatcher(bot)
